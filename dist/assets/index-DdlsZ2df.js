@@ -3332,8 +3332,8 @@ void main()
 
 #  *I'm Teddy*
 
-##   • Full Stack Software Developer
-##   • Microsoft Cloud Support Associate
+##   • Full Stack Developer
+##   • Cloud Support Associate
 
 ### Welcome to Teddy's-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
