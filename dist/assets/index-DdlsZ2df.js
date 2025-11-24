@@ -3330,12 +3330,12 @@ void main()
 `);for(let Z=0;Z<O.length;Z++){const oe=[];for(const te of O[Z]){const k=g({str:te,font:He,updateCharNextLoc:!1}).colorText;k&&oe.push(k)}p=0,w=0,L(oe,(te,k,K)=>{te.translate(k,K,0)},!1),x(i,oe);const ne=Math.floor(oe.length/I);for(let te=0;te<ne;te++)C+=1,v(He);Z<O.length-1?(v(He),C+=1):(p=O[Z].length+1,h(0))}return C}function y(E){for(const D of E)t.remove(D),D.geometry.dispose(),D.material.dispose()}let w=0;function L(E,D,I){const C=He.width+He.tracking,O=Math.floor(ci/C);for(let Z=0;Z<E.length;Z++){const oe=f.x+C*((Z+p)%O),ne=-(f.y+He.leading*Math.floor((Z+p)/O));D(E[Z],oe,ne)}if(I){const Z=Math.floor((E.length+p)/O);Z>w,U(Z-w,"lines"),w=Z}}function _(E,D){if(E.type==="add"){if(E.loc==="end"){a.visible=!0;for(const I of E.str){const C=new Ge(g({str:I,font:He,updateCharNextLoc:!1}).colorText,n.clone());d.push(C),L(d,(O,Z,oe)=>{O=O,O.position.set(Z,oe,0),t.add(O)},!0)}}else if(typeof E.loc=="number"){const I=[];for(const C of E.str)I.push(new Ge(g({str:C,font:He,updateCharNextLoc:!1}).colorText,n.clone()));d=[...d.slice(0,E.loc),...I,...d.slice(E.loc,d.length)],L(d,(C,O,Z)=>{C=C,C.position.set(O,Z,0),t.add(C)},!0)}}else if(E.type==="del"){if(E.loc==="end"){const I=d.slice(-E.str.length);d=d.slice(0,-E.str.length),L(d,(C,O,Z)=>{C=C,C.position.set(O,Z,0)},!0),y(I)}else if(typeof E.loc=="number"){const I=d.slice(E.loc,E.loc+E.str.length);y(I),d=[...d.slice(0,E.loc),...d.slice(E.loc+E.str.length,d.length)],L(d,(C,O,Z)=>{C=C,C.position.set(O,Z,0)},!0)}}h(D)}function F(){const E=[];for(const O of d)O.geometry.translate(O.position.x,O.position.y,0),E.push(O.geometry),O.material.dispose();x(i,E);const D=He.width+He.tracking,I=Math.floor(ci/D),C=Math.floor((d.length+p)/I);f.y+=He.leading*C}let q=t.position.y;function U(E,D,I={updateMaxScroll:!0,moveView:!0}){let C=E;D==="lines"&&(C*=He.leading),I.moveView&&(t.position.y+=C),I.updateMaxScroll&&(q+=C),t.position.y<0&&(t.position.y=0),t.position.y>q&&(t.position.y=q)}function R(){t.position.y!==q&&(t.position.y=q)}function ee(E){const D=E.match(/\(.+\)/);if(!D||D.length===0)return;const[I,C]=D[0].slice(1,-1).split("?"),O=new URLSearchParams(C),Z=parseFloat(O.get("aspect")??"");if(Number.isNaN(Z))throw new Error(`Error for image at: '${I}'. Image must have aspect ratio like this: '/path/to/image?aspect=1.5'`);const oe=parseFloat(O.get("width")??""),ne=Number.isNaN(oe)?1:oe,te=ne/Z,k=new Ge(new Kt(ne,te,1,1),new rt({color:0}));k.position.set(1.4/2,-te*.5-f.y,-.02),O.get("noflow")||(f.y+=te),t.add(k),new vs().load(I,ce=>{ce.magFilter=$e,k.material=new rt({map:ce})})}function N(E,D){u>1&&Math.floor(D*2)%2==0?(a.visible=!1,c(!1)):(a.visible=!0,c(!0)),u+=E}return{tick:N,userInput:_,placeMarkdown:m,placeText:M,scroll:U,scrollToEnd:R,freezeInput:F}}const jc=`!(/images/misango.png?aspect=2&noflow=true&width=1.33)
 ## Hello,
 
-#  *I'm Frankline*
+#  *I'm Teddy*
 
-##   • Quantitative Developer
-##   • Infrastracture DevOPS
+##   • Full Stack Software Developer
+##   • Microsoft Cloud Support Associate
 
-### Welcome to Frank's-Linux 1.0 LTS
+### Welcome to Teddy's-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
 `,gv=`
 
