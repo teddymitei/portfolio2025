@@ -3344,9 +3344,9 @@ void main()
 # Contact
 ## Reach out on*LinkedIn*
 
-https://www.linkedin.com/in/misango/
-`,xv=`## *ATLienHK_AWS_DeepRacer*
-## 2024
+https://www.linkedin.com/in/teddy-mitei-042256307/
+`,xv=`## *DIY IT Support System*
+## 2023 -24
 
 ### • Jupyter Notebook
 ### • Reinforcement Learning
