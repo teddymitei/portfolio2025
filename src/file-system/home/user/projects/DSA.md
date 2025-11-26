@@ -1,8 +1,11 @@
-## *DSA*
-## 2025
 
-### • Jupyter Notebook
-### • Algorithms, C/Java/Python
+
+
+## *RedStore*
+## 2024
+
+### • JavaScript
+### • CSS
 !(/images/cyber-heist.png?aspect=1.8181)
 
-Interactive implementations of advanced graph algorithms and computational geometry problems.
+An e-commerce website front-end design with engaging product displays and user-friendly navigation menus.

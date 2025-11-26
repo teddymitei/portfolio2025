@@ -1,8 +1,12 @@
-## *ArithmaxBots*
-## 2025
 
-### • Rust/Python, Circuit Breakers
-### • Multi-Exchange Execution
+
+
+
+## *IBM-Cloud-App-Development-Capstone*
+## 2024
+
+### • Python
+### • IBM Cloud
 !(/images/cyber-heist.png?aspect=1.8181)
 
-Automated trading system with fail-safes for crypto/stock markets using Rust execution engine and Python signal layer.
+Final project for this course involved developing a cloud-based application that leverages IBM Cloud services to provide scalable and reliable functionality.

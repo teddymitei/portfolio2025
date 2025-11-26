@@ -2,11 +2,11 @@
 
 
 
-## *BashSploit*
+## *Full-Stack-Cloud-Dev-Capstone-Project*
 ## 2024
 
-### • Python, Post-Exploitation
-### • Resource Manipulation
+### • DockerFile
+### • Python
 !(/images/cyber-heist.png?aspect=1.8181)
 
-CLI toolkit for maintaining persistence and lateral movement in compromised *nix environments.
+ A cloud-hosted web-app for a car dealership's car reviewal platform

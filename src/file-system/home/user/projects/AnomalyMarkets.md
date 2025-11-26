@@ -1,8 +1,12 @@
-## *DIY IT Support System*
+
+
+
+
+## *Online-Product-Review-Analysis*
 ## 2025
 
-### • Python, Data Visualization
-### • Order Book Anomalies
-!(/images/cyber-heist.png?aspect=1.8181)
+### • Sentiment Analysis
+### • Django
+!(/images/project-l.png?aspect=1.7777)
 
-Real-time monitoring system detecting liquidity anomalies and unusual trading patterns across markets.
+Through the use of sentiment analysis, the model can help detect and prevent the publishing of fake reviews on online marketplaces, which can mislead customers and harm companies.
