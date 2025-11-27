@@ -3,8 +3,8 @@
 
 #  *I'm Teddy*
 
-##   • Full Stack Developer
-##   • Cloud Support Associate
+##   • Full Stack Software Developer
+##   • Microsoft Cloud Support Associate
 
 ### Welcome to Teddy's-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
