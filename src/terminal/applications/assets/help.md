@@ -3,7 +3,7 @@
 
 
 # Help
-### Frank's Linux is just like BASH except much more limited.
+### Teddy's Linux is just like BASH except much more limited.
 
 ## • Type*ls* to list directory contents
 
